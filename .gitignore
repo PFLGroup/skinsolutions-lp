@@ -1,0 +1,16 @@
+# OS / edytory
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# Node (gdyby pojawił się build/minify)
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+
+# Robocze
+_brief/_scratch/
+*.tmp

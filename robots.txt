@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pflgroup.github.io/skinsolutions-lp/sitemap.xml
